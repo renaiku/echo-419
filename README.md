@@ -5,6 +5,9 @@
 Currently devices worked on:
 - Echo Dot 4th gen
 
+![image](https://user-images.githubusercontent.com/17033907/231236490-cd8a889c-6d18-4181-9ef0-c14e53008e6f.png)
+
+
 We are trying to replace the motherboards of Amazon echo devices with generic technology like an ESP32 to make them natively compatible with open source home automation like home assistant and rhasspy.
 In an ideal situation, we would like to have the same design for any devices, with only the form factor of the board itself adaptating to the Amazon device.
 
