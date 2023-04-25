@@ -1,6 +1,6 @@
 # echo-419
 
-![https://discord.gg/Tz4nJMvhSB](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tz4nJMvhSB)
 
 Currently devices worked on:
 - Echo Dot 4th gen
